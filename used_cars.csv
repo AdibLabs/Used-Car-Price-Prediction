@@ -1,0 +1,16 @@
+Car_ID,Brand,Year,Engine_CC,Kilometers_Run,Fuel_Type,Transmission,Price_Lakh
+1,Toyota,2018,1500,45000,Petrol,Automatic,18
+2,Honda,2019,1300,30000,Petrol,Automatic,16
+3,Toyota,2016,1800,65000,Petrol,Automatic,20
+4,Suzuki,2020,1200,25000,Petrol,Manual,9
+5,Nissan,2017,1500,55000,Petrol,Automatic,14
+6,Toyota,2021,1500,20000,Hybrid,Automatic,25
+7,Honda,2015,1300,80000,Petrol,Manual,10
+8,Suzuki,2019,1000,35000,Petrol,Manual,7
+9,Toyota,2017,2000,60000,Diesel,Automatic,19
+10,Nissan,2020,1500,28000,Petrol,Automatic,15
+11,Honda,2022,1500,15000,Hybrid,Automatic,24
+12,Suzuki,2016,1200,70000,Petrol,Manual,6
+13,Toyota,2020,1800,32000,Hybrid,Automatic,27
+14,Nissan,2018,1300,48000,Petrol,Manual,11
+15,Honda,2017,1500,52000,Petrol,Automatic,13
